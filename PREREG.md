@@ -60,3 +60,4 @@ Prices: `claude-opus-4-5-20251101` and `claude-opus-4-6`, 5 USD per million inpu
 
 - Runner: https://github.com/theonlypal/opus45-opus46-matched-prereg-final
 - Frozen tag: v1.0.0
+- Preregistration DOI: https://doi.org/10.5281/zenodo.23744106
